@@ -1,0 +1,8 @@
+in flutter everything is a widget
+there are 2 types of widgets
+1. stateless widget: such widgets or things which changes which will
+    not change on doing anything / these widget will not change its state
+2. stateful widget: such widgets or things which will change their
+    state on action / these widgets are used where we want that
+    perticular widget to change its property
+
